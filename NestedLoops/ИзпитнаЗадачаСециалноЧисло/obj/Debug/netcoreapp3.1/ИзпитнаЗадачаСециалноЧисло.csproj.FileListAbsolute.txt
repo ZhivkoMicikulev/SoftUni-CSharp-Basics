@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\obj\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\obj\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\bin\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.exe
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\bin\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\bin\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\bin\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\bin\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\bin\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\obj\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаЗадачаСециалноЧисло\obj\Debug\netcoreapp3.1\ИзпитнаЗадачаСециалноЧисло.pdb

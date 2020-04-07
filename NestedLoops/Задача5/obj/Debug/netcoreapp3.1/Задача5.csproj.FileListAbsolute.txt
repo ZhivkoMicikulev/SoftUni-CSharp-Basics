@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\bin\Debug\netcoreapp3.1\Задача5.exe
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\bin\Debug\netcoreapp3.1\Задача5.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\bin\Debug\netcoreapp3.1\Задача5.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\bin\Debug\netcoreapp3.1\Задача5.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\bin\Debug\netcoreapp3.1\Задача5.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\bin\Debug\netcoreapp3.1\Задача5.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\obj\Debug\netcoreapp3.1\Задача5.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\obj\Debug\netcoreapp3.1\Задача5.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\obj\Debug\netcoreapp3.1\Задача5.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\obj\Debug\netcoreapp3.1\Задача5.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\Задача5\obj\Debug\netcoreapp3.1\Задача5.pdb

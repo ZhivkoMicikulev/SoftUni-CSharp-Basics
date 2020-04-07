@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.exe
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.pdb

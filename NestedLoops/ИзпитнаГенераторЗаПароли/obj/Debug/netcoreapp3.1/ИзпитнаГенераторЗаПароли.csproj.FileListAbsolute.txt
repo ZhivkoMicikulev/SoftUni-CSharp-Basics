@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\bin\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.exe
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\bin\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\bin\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\bin\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\bin\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\bin\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\obj\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\obj\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\obj\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\obj\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.dll
+C:\Users\Живко\Desktop\СофтУни\C#\NestedLoops\NestedLoops\ИзпитнаГенераторЗаПароли\obj\Debug\netcoreapp3.1\ИзпитнаГенераторЗаПароли.pdb
