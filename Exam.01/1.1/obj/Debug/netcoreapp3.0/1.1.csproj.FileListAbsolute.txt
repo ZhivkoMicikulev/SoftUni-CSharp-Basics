@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\bin\Debug\netcoreapp3.0\1.1.exe
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\bin\Debug\netcoreapp3.0\1.1.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\bin\Debug\netcoreapp3.0\1.1.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\bin\Debug\netcoreapp3.0\1.1.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\bin\Debug\netcoreapp3.0\1.1.dll
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\bin\Debug\netcoreapp3.0\1.1.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\obj\Debug\netcoreapp3.0\1.1.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\obj\Debug\netcoreapp3.0\1.1.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\obj\Debug\netcoreapp3.0\1.1.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\obj\Debug\netcoreapp3.0\1.1.dll
+C:\Users\Живко\Desktop\СофтУни\C#\Изпит\Изпит\1.1\obj\Debug\netcoreapp3.0\1.1.pdb
