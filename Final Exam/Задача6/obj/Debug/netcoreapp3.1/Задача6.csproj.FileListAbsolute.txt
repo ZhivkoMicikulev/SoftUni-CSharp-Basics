@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\bin\Debug\netcoreapp3.1\Задача6.exe
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\bin\Debug\netcoreapp3.1\Задача6.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\bin\Debug\netcoreapp3.1\Задача6.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\bin\Debug\netcoreapp3.1\Задача6.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\bin\Debug\netcoreapp3.1\Задача6.dll
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\bin\Debug\netcoreapp3.1\Задача6.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\obj\Debug\netcoreapp3.1\Задача6.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\obj\Debug\netcoreapp3.1\Задача6.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\obj\Debug\netcoreapp3.1\Задача6.dll
+C:\Users\Живко\Desktop\СофтУни\C#\ИзпитFinal\ИзпитFinal\Задача6\obj\Debug\netcoreapp3.1\Задача6.pdb
