@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\bin\Debug\netcoreapp3.1\Задача2.exe
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\bin\Debug\netcoreapp3.1\Задача2.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\bin\Debug\netcoreapp3.1\Задача2.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\bin\Debug\netcoreapp3.1\Задача2.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\bin\Debug\netcoreapp3.1\Задача2.dll
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\bin\Debug\netcoreapp3.1\Задача2.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\obj\Debug\netcoreapp3.1\Задача2.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\obj\Debug\netcoreapp3.1\Задача2.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\obj\Debug\netcoreapp3.1\Задача2.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\obj\Debug\netcoreapp3.1\Задача2.dll
+C:\Users\Живко\Desktop\СофтУни\C#\ПробенИзпит2\ПробенИзпит2\Задача2\obj\Debug\netcoreapp3.1\Задача2.pdb
