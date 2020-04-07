@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\bin\Debug\netcoreapp3.1\Задача1.exe
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\bin\Debug\netcoreapp3.1\Задача1.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\bin\Debug\netcoreapp3.1\Задача1.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\bin\Debug\netcoreapp3.1\Задача1.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\bin\Debug\netcoreapp3.1\Задача1.dll
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\bin\Debug\netcoreapp3.1\Задача1.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\obj\Debug\netcoreapp3.1\Задача1.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\obj\Debug\netcoreapp3.1\Задача1.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\obj\Debug\netcoreapp3.1\Задача1.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\obj\Debug\netcoreapp3.1\Задача1.dll
+C:\Users\Живко\Desktop\СофтУни\C#\ForLoopsUpr\ForLoopsUpr\Задача1\obj\Debug\netcoreapp3.1\Задача1.pdb
